@@ -8,4 +8,4 @@ In my project, I train an agent to play the game of Blackjack using a model-free
 
  
 
-In the future, i'd like to expand upon this work by creating agents for more complex games using deep Q Learning (where the "quality" of a state-action pair is approximated by an artificial neural network rather than a look-up table).
+In the future, I'd like to expand upon this work by creating agents for more complex games using deep Q Learning (where the "quality" of a state-action pair is approximated by an artificial neural network rather than a look-up table).
